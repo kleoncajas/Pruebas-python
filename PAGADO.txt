@@ -1,0 +1,5 @@
+Gasolina    50€         PAGADO
+Hotel       1562€       PAGADO
+Cascos      77€         PAGADO
+Sobornos    1725,89€    PAGADO   
+Compras     1325€       PAGADO

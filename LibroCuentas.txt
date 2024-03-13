@@ -1,0 +1,10 @@
+Gasolina    50€         PAGADO
+Hotel       1562€       PAGADO
+Cenas       785€        
+Comidas     562€    
+Cascos      77€         PAGADO
+Arneses     25.32€      
+Sobornos    1725,89€    PAGADO   
+Bicicleta   985€
+Lavadora    324€
+Compras     1325€       PAGADO
